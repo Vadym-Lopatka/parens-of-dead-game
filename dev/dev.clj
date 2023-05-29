@@ -11,5 +11,6 @@
 
 (comment
   (start)
+  (stop)
   integrant.repl.state/system
   )
